@@ -1,0 +1,12 @@
+{
+  "name": "YouMessage",
+  "description": "YouMessage — Conversations, Connected.\n\nYouMessage is a modern messaging platform designed to bring people closer through simple, seamless communication.\n\nChat privately with friends and family, create group conversations, share photos and videos, send voice messages, and connect through voice and video calls.\n\nWith its clean, elegant design, smooth animations and intuitive experience, YouMessage makes staying connected effortless.\n\nYour conversations. Your people. Your message.\n\nWelcome to YouMessage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
